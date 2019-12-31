@@ -1,0 +1,4 @@
+A major credit card company has information about all the transactions that users make with their credit card.
+
+Given a dataset of credit card transactions, we have to leverage unsupervised learning to identify unusual/weird 
+events that have a high chance of being a fraud.
