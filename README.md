@@ -3,3 +3,5 @@
 
 - **Credit Card Fraud Transactions Detection:** Leverage unsupervised ML to identify unusual/weird 
 events that have a high chance of being a fraud.
+
+- **Customer Behavior Analytics:** Analyzing customer behavior through defining metrics and data manipulation.
